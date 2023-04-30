@@ -1,1 +1,21 @@
+html{
+    background-color: azure;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: #A4D0A4;
+    padding: 10px;
+}
+h2{
+    text-align: center;
 
+}
+#mov{
+    background-color: #7C96AB;
+    margin-right: 400px;
+    padding: 5px;
+}
+img{
+    align-items: center;
+}
